@@ -1,3 +1,10 @@
+// Stack
+// Time Complexity
+// Access: O(n)	Search: O(n)	Insertion:O(1)	Deletion: O(1)
+// Space Complexity: O(n)
+
+/////////////////////////Using Class Keyword//////////////////////////////////////
+
 class Stack {
   constructor(){
   this.collection ={};
